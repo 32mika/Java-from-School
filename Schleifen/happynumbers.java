@@ -24,9 +24,11 @@ public class happynumbers {
 		eingabe_a = new String[eingabe_s.length()];
 		
 		while(gesamt != 1.0 & count < 21) {
+			
 			eingabe_a = eingabe_s.split("(?<=.)");
 			
 		for(int i = 0; i < eingabe_s.length(); i++) {
+			
 			eingabe_i = Integer.parseInt(eingabe_a[i]);
 			eingabehoch = (int)Math.pow(eingabe_i, 2);
 			zw_gesamt = zw_gesamt + eingabehoch;
@@ -45,9 +47,11 @@ public class happynumbers {
 	}
 		
 		if(gesamt == 1) {
+			
 			System.out.print("die eingegebene Zahl ist eine froehliche Zahl");
 		
 		}else {
+			
 			System.out.print("die eingegebene Zahl ist eine unglueckliche Zahl");
 		
 		}
