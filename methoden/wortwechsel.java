@@ -2,6 +2,8 @@ package array;
 import java.util.Scanner;
 import java.util.Random;
 
+// Funktioniert noch nicht
+
 public class wortwechsel {
 
 	public static void main(String[] args) {
