@@ -1,0 +1,10 @@
+BWL
+Informatik
+Maschinenbau
+Rechtswissenschaften
+Jura
+Physik
+Humanmedizin
+Wirtschaftswissenschaften
+Biologie
+Germanistik
